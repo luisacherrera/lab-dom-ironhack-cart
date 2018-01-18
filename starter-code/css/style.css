@@ -56,3 +56,7 @@ div h2 {
   display: flex;
   justify-content: center;
 }
+
+#template {
+  display: none;
+}
